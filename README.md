@@ -19,6 +19,7 @@ Conteúdo programático:
   - Computação em Nuvem;
   - Benefícios da Nuvem;
   - Tipos de serviço de nuvem.
+    
 Criando uma conta do microsoft azure. Iniciando com uma conta gratuita para que possamos fazer nossos laborátórios para prátícas visando a certificação. Ela enfatiza que realizar os laboratórios é muito importante e que na página do DOCS na Microsoft alguns laboratórios criam uma seção para que você possa praticar sem gastar créditos, mas não são todos. Emtão fiquem atentos.
 Ela convida para fazermos uma análise do que temos direito e também cuidados que devemos ter para evitar cobranças indevidas.
 Após criar a conta, ele traz um overview do que temos direito: 
