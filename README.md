@@ -15,6 +15,15 @@ Curso focado às pessoas que querem ampliar seus conhecimentos na área de tecno
 Ela é Gaúcha de Porto Alegre, trabalha na área de Tecnologia desde 2008. Começou formatando computadores, trocando senhas de usuário, fez um curso técnico, foi pra faculdade, cursou Ciência da Computação, posteriormente, começou a entender Cloud Computing e era uma área bastante promissora, baseando-se nisso também fez uma MB em Cloud, e agora, uma Pós em Docência para o Ensino Superior.
 Tirou "algumas" certificações e ainda continua estudando para tirar mais, gosta muito dos produtos da família Microsoft, foi onde ela se dedicou mais e, através de todos esses conhecimentos, ela se tornou instrutora oficial o "MCT" da Microsoft e também recebeu o título novamente de "MVP" da Microsoft, que significa "Most Valuable Professional". The Learning never ends. Even when ure an Allien.
 **Tempo do vídeo: 2min e 16sec
+
+
+
+
+
+
+
+
+
 -------------------///---------------------
 Primeiro tópico: além de uma apresentação abrangente dos conteúdos que serão abordados durante o cur, so, ficou por conta da apresentação da profissional Valéria Baptista, suas experiências profissionais, formações, paixões e reconhecimentos profissionais.
 O objetivo do curso, como a professora sinaliza, é introdutório aos fundamentos.
