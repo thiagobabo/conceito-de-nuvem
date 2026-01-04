@@ -8,13 +8,29 @@ Resumo detalhado das 4 primeiras atividades do módulo 1
 
 ## AZ-900: Introdução aos Conceitos Básicos do Microsoft Azure
 
-Curso focado às pessoas que querem ampliar seus conhecimentos na área de tecnologia focando em Cloud Computing. Indepentente se você já trabalha com TI ou não, nós vamos abordar conceitos básicos de computação em nuvem, definições de terminologias e este conteúdo tamém aborda uma série de cenários, tanto a parte de banco de dados, infraestrutura, segurança e um pouco de inteligência artificial.A professora sugere que é muito importante trocar ideias, esclarecer dúvidas, porque pode ser um pouco confuso no começo e isso é de grande valia para o seu desenvolvimento.
+Curso focado às pessoas que querem ampliar seus conhecimentos na área de tecnologia focando em Cloud Computing. Indepentente se você já trabalha com TI ou não, nós vamos abordar conceitos básicos de computação em nuvem, definições de terminologias e este conteúd o tamém aborda uma série de cenários, tanto a parte de banco de dados, infraestrutura, segurança e um pouco de inteligência artificial. A professora sugere que é muito importante trocar ideias, esclarecer dúvidas, porque pode ser um pouco confuso no começo e isso é de grande valia para o seu desenvolvimento e ela pretende ir esclarecendo-as durante o percurso do curso .
 
 ### Sobre Valéria Baptista
 
 Ela é Gaúcha de Porto Alegre, trabalha na área de Tecnologia desde 2008. Começou formatando computadores, trocando senhas de usuário, fez um curso técnico, foi pra faculdade, cursou Ciência da Computação, posteriormente, começou a entender Cloud Computing e era uma área bastante promissora, baseando-se nisso também fez uma MB em Cloud, e agora, uma Pós em Docência para o Ensino Superior.
-Tirou "algumas" certificações e ainda continua estudando para tirar mais, gosta muito dos produtos da família Microsoft, foi onde ela se dedicou mais e, através de todos esses conhecimentos, ela se tornou instrutora oficial o "MCT" da Microsoft e também recebeu o título novamente de "MVP" da Microsoft, que significa "Most Valuable Professional". The Learning never ends. Even when ure an Allien.
-**Tempo do vídeo: 2min e 16sec
+Tirou "algumas" certificações e ainda continua estudando para tirar mais, gosta muito dos produtos da família Microsoft, foi onde ela se dedicou mais e, através de todos esses conhecimentos, ela se tornou instrutora oficial o "MCT" da Microsoft e também recebeu o título novamente de "MVP" da Microsoft, que significa "Most Valuable Professional". Que é um profissional de maior valor, que representa a Microsoft, que compartilha conhecimento/conteúdo apesar de não ser colaborador. Esteve trabalhando na Microsoft na área de Sec. - Segurança, e saiu para seguir seu próprio caminho empreendendo. Ela nos convida também a conhecer a comunidade dela, comunidade do canal da Cloud, estão presemtes em várias redes sociais. Ela busca sempre trazer conhecimento, conhecimento técnico e compartilhar com a comunidade é uma forma de conseguir incentivar outras pessoas aí a trabalharem também na área de Tecnologia. Atualmente ela está indo para o seu 3º livro, ela participou da escrita deste livro "Mulheres na TI: jornadas de aprendizados e superações", recomenda a leitura, eles trazem vários depoimentos de mulheres incríveis, que venceram durante sua jornada. Muito preconceito, dificuldades, e hoje trabalham com Tecnologia.
+E o jornada "Cloud Native que é pra você que quer entender um pouco mais sobre este mundo de Cloud. Participou da escrita e organização do livro e, em breve, sairá mais um que será o "TI de Salto".
+Ela é palestrante, entusiasta de CLoud, adora participar de eventos e organizar também. Acha que esse senso colaborativo, senso de comunidade, é muito importante porque além de nos abrir portas, também fazemos muitos amigos que são da área.
+
+### Indo para nosso conteúdo:
+
+## Objetivo Geral
+O objetivo deste curso, ele é introdutório, de fundamentos, então ele terá vários conceitos, iremos abordar muitos assuntos - avisa para não nos assustarmos.
+Ela avisa que a prova AZ-900 na visão dela que já está na área, ela é excelente. Excelente por que, porque ela tem uma tendência a nivelar o seu conhecimento de Cloud de forma geral
+
+
+**Tempo do vídeo: 4min. e 40sec.
+
+
+
+
+
+
 
 
 
