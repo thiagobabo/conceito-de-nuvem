@@ -8,7 +8,7 @@ Resumo detalhado das 4 primeiras atividades do módulo 1
 
 ## AZ-900: Introdução aos Conceitos Básicos do Microsoft Azure
 
-Curso focado às pessoas que querem ampliar seus conhecimentos na área de tecnologia focando em Cloud Computing. Indepentente se você já trabalha com TI ou não, nós vamos abordar conceitos básicos de computação em nuvem, definições de terminologias e este conteúd o tamém aborda uma série de cenários, tanto a parte de banco de dados, infraestrutura, segurança e um pouco de inteligência artificial. A professora sugere que é muito importante trocar ideias, esclarecer dúvidas, porque pode ser um pouco confuso no começo e isso é de grande valia para o seu desenvolvimento e ela pretende ir esclarecendo-as durante o percurso do curso .
+Curso focado às pessoas que querem ampliar seus conhecimentos na área de tecnologia focando em Cloud Computing. Indepentente se você já trabalha com TI ou não, nós vamos abordar conceitos básicos de computação em nuvem, definições de terminologias e este conteúdo também aborda uma série de cenários, tanto a parte de banco de dados, infraestrutura, segurança e um pouco de inteligência artificial. A professora sugere que é muito importante trocar ideias, esclarecer dúvidas, porque pode ser um pouco confuso no começo e isso é de grande valia para o seu desenvolvimento e ela pretende ir esclarecendo-as durante o percurso do curso .
 
 ### Sobre Valéria Baptista
 
